@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python training_yolov8.py 

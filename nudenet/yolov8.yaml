@@ -1,0 +1,24 @@
+path: pothole_dataset_v8/
+train: '/data/disk1/hungpham/NudeNet/data/train/images'
+val: '/data/disk1/hungpham/NudeNet/data/valid/images'
+ 
+# class names
+names: 
+  0: 'female genitalia coveredc'
+  1: 'face female'
+  2: 'buttocks exposed'
+  3: 'female breast exposed'
+  4: 'female genitalia exposed'
+  5: 'male breast exposed'
+  6: 'anus exposed'
+  7: 'feet exposed'
+  8: 'belly covered'
+  9: 'feet covered'
+  10: 'armpits covered'
+  11: 'armpits exposed'
+  12: 'face male'
+  13: 'belly exposed'
+  14: 'male genitalia exposed'
+  15: 'anus covered'
+  16: 'female breast covered'
+  17: 'buttocks covered'
